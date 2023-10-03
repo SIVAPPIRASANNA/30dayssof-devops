@@ -1,0 +1,69 @@
+Day1: DevOps principles, culture, and benefits.
+
+Day2: Intro to Maven - understand the mavens role in build automation and dependency management
+
+Day3: Apache Tomcat - intro to Tomcat, popular java web server and servlet container
+
+Day4: Jenkins - setup jenkins, a leading OS automation server for cts integration and delivery
+
+Day5: SonarQube  - Intro to sonarqube for code quality analysis and cts inspection
+
+  SECURITY AND ARTIFACTS MANAGEMENT
+
+Day6: OWASP Dependency Check - how to use OWASP dependecy check to identify vulnerabilities in  project dependencies.
+
+Day7: Articafts and Repository Management - intro to the concepts of articafts along with using Nexus as a repository manager.
+
+Day8: Docker - Intro to Docker containers and containerization for building and deploying applications.
+
+day9: YAML - learning YAML syntax for defining configuration files used in various DevOps tools.
+
+Day10: Kubernetes - intro to Kubernetes for container orchestration and managing containerized apllications.
+
+    AZURE DEVOPS
+
+Day11: Azure DevOps - overview and comprehensive DevOps platform provided by Microsoft.
+
+Day12: Azure Pipelines - Configuring pipelines in Azure DevOps for continuous integration and delivery.
+
+day13: Azure Artifacts - managing packages and artifacts in Azure DevOps for versioning and distribution.
+
+Day14: Azure Container Registry(ACR) - understanding how to use ACR for storing and managing Docker container images.
+
+Day15: Azure Kubernets service(AKS) - Deploying and managing Kubernets clusters in Azure using AKS.
+
+    INFRASTRUCTURE AS CODE
+
+Day16: Ansible - intro to ansible for configuration management and automation of IT infrastructure.
+
+Day17: Terraform - learning Terraform for infrastructure provisioning and management as code.
+
+day18: Terraform with Azure- Deploying Azure resources using Terraform for infrastructure automation.
+
+Day19: Azure DevOps and Terraform - integrating terraform with Azure DevOps pipelines for infrastructure deployment.
+
+day20: infrastructure as code Best Practice - exploring best practice for infrastructure automation, versioning and collaboration.
+
+    ADVANCE DEVOPS CONCEPTS
+
+Day21: Continuous Monitoring - intro to monitoring tools and practices for proactive system monitoring.
+
+day22: Log management - understanding the log aggregation and analysis using tools like ELK stack.
+
+day23: infrastructure Orchestration - explore advanced orchestration technique using tools like HashiCorp Nomad.
+
+Day24: Serveless computing -intro to serveless architecture and Azure functions for event-driven applications.
+
+day25: Cloud-native Architecture - understanding the principles and patterns of building applications for cloud environments.
+
+    DEVOPS BEST PRACTICES AND CASE STUDIES
+    
+day26: Continous testing - CI/CD pipeline for faster feedback.
+
+Day27: Release management - manage software releases and deployment strategies.
+
+day28: DevOps culture and Collabration - Emphasizing collabration , communication and shared responsibilty within Devops teams.
+
+Day29: Scaling Devops - startegies for scaling DevOps practices and tools across teams and organizations.
+
+day30: DevOps casestudies
